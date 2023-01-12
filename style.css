@@ -1,0 +1,26 @@
+#mario {
+  width: 250px;
+  height: 350px;
+  margin: 50px auto;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  width: 20px;
+  height: 20px;
+}
+
+.red {
+  background-color: #ff0000;
+}
+
+.brown {
+  background-color: #8c4600;
+}
+
+.beige {
+  background-color: #ffba61;
+}
